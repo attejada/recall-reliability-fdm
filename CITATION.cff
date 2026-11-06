@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Recall reliability and FDM propagation analysis"
+authors:
+  - family-names: "Tejada"
+    given-names: "Allan"
+    name-suffix: "Jr."
+    affiliation: "The University of Tokyo"
+  - family-names: "Kawasaki"
+    given-names: "Akiyuki"
+    affiliation: "The University of Tokyo"
+  - family-names: "Di Baldassarre"
+    given-names: "Giuliano"
+    affiliation: "Uppsala University"
+  - family-names: "Jaranilla-Sanchez"
+    given-names: "Patricia Ann"
+    affiliation: "University of the Philippines Los Banos"
+  - family-names: "Ohara"
+    given-names: "Miho"
+    affiliation: "The University of Tokyo"
+license: MIT
+repository-code: "https://github.com/attejada/recall-reliability-fdm"
